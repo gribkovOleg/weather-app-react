@@ -3,6 +3,6 @@ export const GetDataWeather = (valueLocality, valueCoutry, changeData) => {
     ${valueLocality},${valueCoutry}`)
         .then((response) => response.json())
         .then((json) => {
-            json.success === false ? alert('Введены не коректные данные!') : changeData(json)
+            json.success === false ? alert('invalid data entered!') : changeData(json)
         })
 }

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gribkovOleg/weather-app-react/static/css/main.0218f83a.chunk.css",
+    "main.js": "/gribkovOleg/weather-app-react/static/js/main.f5fecc6b.chunk.js",
+    "main.js.map": "/gribkovOleg/weather-app-react/static/js/main.f5fecc6b.chunk.js.map",
+    "runtime-main.js": "/gribkovOleg/weather-app-react/static/js/runtime-main.945a5656.js",
+    "runtime-main.js.map": "/gribkovOleg/weather-app-react/static/js/runtime-main.945a5656.js.map",
+    "static/js/2.95c7944d.chunk.js": "/gribkovOleg/weather-app-react/static/js/2.95c7944d.chunk.js",
+    "static/js/2.95c7944d.chunk.js.map": "/gribkovOleg/weather-app-react/static/js/2.95c7944d.chunk.js.map",
+    "index.html": "/gribkovOleg/weather-app-react/index.html",
+    "static/css/main.0218f83a.chunk.css.map": "/gribkovOleg/weather-app-react/static/css/main.0218f83a.chunk.css.map",
+    "static/js/2.95c7944d.chunk.js.LICENSE.txt": "/gribkovOleg/weather-app-react/static/js/2.95c7944d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/gribkovOleg/weather-app-react/static/media/mountains-190055.acdbb675.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.945a5656.js",
+    "static/js/2.95c7944d.chunk.js",
+    "static/css/main.0218f83a.chunk.css",
+    "static/js/main.f5fecc6b.chunk.js"
+  ]
+}
